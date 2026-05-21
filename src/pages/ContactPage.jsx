@@ -18,7 +18,7 @@ export function ContactPage({ toast }) {
       <div style={{ maxWidth: 1100, margin: "0 auto", padding: "80px 40px" }}>
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 56 }} className="contact-grid">
           <div>
-            <h2 style={{ fontSize: 28, fontWeight: 800, color: "#111827", marginBottom: 28 }}>Get in Touch</h2>
+            <h2 style={{ fontSize: 28, fontWeight: 800, color: "#111827", marginBottom: 28 }}>Get in Touch with Us</h2>
             {[["📍", "Address", "Shop 12, Raja Bazar, Rawalpindi, Punjab 46000"], ["📞", "Phone / WhatsApp", "+92 300 1234567"], ["✉️", "Email", "info@alprinting.pk"], ["⏰", "Hours", "Mon–Sat: 9:00 AM – 8:00 PM"]].map(([icon, title, val]) => (
               <div key={title} style={{ display: "flex", gap: 16, marginBottom: 22, alignItems: "flex-start" }}>
                 <div style={{ width: 46, height: 46, background: "#EFF6FF", borderRadius: 13, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 20, flexShrink: 0 }}>{icon}</div>
