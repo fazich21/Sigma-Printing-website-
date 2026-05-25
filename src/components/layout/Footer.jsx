@@ -12,7 +12,7 @@ export function Footer({ setPage }) {
                 <div style={{ fontSize: 10, color: "#10B981", letterSpacing: ".08em", textTransform: "uppercase", fontWeight: 700 }}>Quality You Can Trust</div>
               </div>
             </div>
-            <p style={{ color: "#6B7280", fontSize: 14, lineHeight: 1.8 }}>Rawalpindi's premier printing press since 2009. 10,000+ customers, 32+ services.</p>
+            <p style={{ color: "#6B7280", fontSize: 14, lineHeight: 1.8 }}>Islamabad's premier printing press since 2009. 10,000+ customers, 32+ services.</p>
           </div>
           <div>
             <h3 style={{ fontSize: 12, fontWeight: 800, marginBottom: 16, textTransform: "uppercase", letterSpacing: ".08em", color: "#9CA3AF" }}>Quick Links</h3>
@@ -28,7 +28,7 @@ export function Footer({ setPage }) {
           <div>
             <h3 style={{ fontSize: 12, fontWeight: 800, marginBottom: 16, textTransform: "uppercase", letterSpacing: ".08em", color: "#9CA3AF" }}>Contact</h3>
             <div style={{ color: "#6B7280", fontSize: 14, lineHeight: 2.2 }}>
-              <div>📍 Raja Bazar, Rawalpindi</div>
+              <div>📍 G-9 Markaz, Islamabad</div>
               <div>📞 +92 300 1234567</div>
               <div>✉️ info@alprinting.pk</div>
               <div>⏰ Mon–Sat 9am–8pm</div>

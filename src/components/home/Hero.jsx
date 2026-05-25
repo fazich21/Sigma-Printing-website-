@@ -39,7 +39,7 @@ export function Hero({ setPage }) {
             }}>
               Printing Services
             </span><br />
-            in Rawalpindi
+            in Islamabad
           </h1>
 
           <p style={{
@@ -120,7 +120,7 @@ export function Hero({ setPage }) {
               gridRow: "1 / 3"
             }}>
               <img
-                src="https://images.unsplash.com/photo-1572502742782-9f02cc7e1b93?w=500&q=80"
+                src="https://images.unsplash.com/photo-1626148750063-fa6fb609b100?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D=80"
                 alt="Visiting Cards"
                 style={{ width: "100%", height: "100%", objectFit: "cover" }}
               />
